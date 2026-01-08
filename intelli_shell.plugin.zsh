@@ -1,11 +1,8 @@
 # -*- mode: sh; eval: (sh-set-shell "zsh") -*-
 #
 # Plugin Name: intelli-shell
+# Description: Zsh plugin to set up IntelliShell environment.
 # Repository: https://github.com/johnstonskj/zsh-intelli_shell-plugin
-#
-# Description:
-#
-#   Zsh plugin to set up IntelliShell environment.
 #
 # Public variables:
 #
