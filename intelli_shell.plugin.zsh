@@ -5,13 +5,13 @@
 #
 # Description:
 #
-#   Add one-line description here...
+#   Zsh plugin to set up IntelliShell environment.
 #
 # Public variables:
 #
 # * `INTELLI_SHELL`; plugin-defined global associative array with the following keys:
-#   * \`_FUNCTIONS\`; a list of all functions defined by the plugin.
-#   * \`_PLUGIN_DIR\`; the directory the plugin is sourced from.
+#   * `_FUNCTIONS`; a list of all functions defined by the plugin.
+#   * `_PLUGIN_DIR`; the directory the plugin is sourced from.
 #
 
 ############################################################################
