@@ -1,8 +1,10 @@
 # -*- mode: sh; eval: (sh-set-shell "zsh") -*-
 #
-# @name intelli-shell
-# @brief Zsh plugin to set up IntelliShell environment.
-# @repository https://github.com/johnstonskj/zsh-intelli_shell-plugin
+# @name: intelli-shell
+# @brief: Set the environment for IntelliShell completion.
+# @repository: https://github.com/johnstonskj/zsh-intelli_shell-plugin
+# @version: 0.1.1
+# @license: MIT AND Apache-2.0
 #
 
 if command -v intelli-shell >/dev/null 2>&1; then
